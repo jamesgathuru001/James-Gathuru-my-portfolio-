@@ -13,11 +13,6 @@ Your background (for example, your education, job experience, a paragraph on why
 Your current interests/hobbies/skills,
 Deploy your site onto GitHub pages}
 ## Setup/Installation Requirements
-* This is a great place
-* to list setup instructions
-* in a simple
-* easy-to-understand
-* format
 {Clone this repositoty to your desktop and open it with your terminal and open the file with Atom. }
 ## Online link to live site
 {https://github.com/jamesgathuru001/James-Gathuru-my-portfolio-.git}
