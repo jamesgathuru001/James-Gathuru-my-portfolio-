@@ -1,9 +1,9 @@
 h1 {
-  color: white;
+  color: green;
   text-align: center;
 }
 h2 {
-  color: blue;
+  color: red;
   font-style: italic;
   text-align: center;
 }
@@ -16,4 +16,69 @@ ul {
 }
 img {
   float: center;
+}
+.recipe {
+  color:blue;
+}
+.world {
+  color:blue;
+}
+.ham {
+  color: blue;
+}
+.studio {
+  color: blue;
+}
+.cookie {
+  color: white;
+}
+.bli {
+  color: white;
+}
+.hames {
+  color: white;
+}
+.delani {
+  color: white;
+}
+.abt {
+  color: blue;
+  text-align: center;
+  font-size :200%
+}
+img {
+  float: right;
+}
+.bb {
+  width:auto;
+  color: white;
+}
+.xx {
+  color: solid black;
+}
+.in {
+  color: blue;
+  text-align: center;
+  font-size :200%
+}
+h3 {
+  color: black;
+}
+.s {
+  color: white;
+  text-align: left;
+}
+.y {
+  color: white;
+  text-align: left;
+}
+.j {
+  color: white;
+  text-align: left;
+}
+.text-box {
+  border: 2px solid blue;
+  padding: 6px;
+  margin: 20px;
+  background-color: grey;
 }
