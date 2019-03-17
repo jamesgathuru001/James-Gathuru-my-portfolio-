@@ -1,6 +1,6 @@
 # James-Gathuru-my-portfolio-
-# {A Portfolio}
-#### By **{James Gathuru}**
+# A Portfolio
+#### By **James Gathuru**
 ## Description
 The page had the following,all codes with HTML and CSS:
 
@@ -17,6 +17,6 @@ Clone this repositoty to your desktop and open it with your terminal and open th
 ## Online link to live site
 https://github.com/jamesgathuru001/James-Gathuru-my-portfolio-.git
 ### License
-*{MIT licence}*
+*MIT licence*
 Copyright (c) 2019 **jamesgathuru001**
   
