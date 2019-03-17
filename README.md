@@ -15,7 +15,7 @@ Deploy your site onto GitHub pages
 ## Setup/Installation Requirements
 Clone this repositoty to your desktop and open it with your terminal and open the file with Atom. 
 ## Online link to live site
-https://github.com/jamesgathuru001/James-Gathuru-my-portfolio-.git
+https://jamesgathuru001.github.io/James-Gathuru-my-portfolio-/
 ### License
 *MIT licence*
 Copyright (c) 2019 **jamesgathuru001**
